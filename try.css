@@ -1,0 +1,7 @@
+.form-control{
+    width: 70% ;
+    margin-top: 30px;
+}
+.error{
+    border: 3px solid red;
+}
